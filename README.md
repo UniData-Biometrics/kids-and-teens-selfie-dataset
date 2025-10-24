@@ -6,19 +6,19 @@ Dataset contains **9,000** high-quality facial images of children and teenagers 
 | Description             | Photos of children and teenagers for facial recognition tasks       |
 | Data types              | Image                                                                |
 | Tasks                   | Face recognition, Computer Vision, Biometric Verification            |
-| Total number of images  | 6,000                                                                |
-| Total number of people  | 300                                                                  |
-| Number of files in a set| 20 selfies                                                           |
+| Total number of images  | 9,000                                                                |
+| Total number of people  | 1000                                                                  |
+| Number of files in a set| 90                                                            |
 | Labeling                | Only technical characteristics and metadata (age, gender, ethnicity) |
-| Gender                  | 185 female (61.7%), 115 male (38.3%)                                |
-| Age                     | 5-15 (mean 10.8)                                                    |
+| Gender                  | Female, male                               |
+| Age                     | 7-15                                                    |
 
 ### 📊 Sample dataset available! For full access, [contact us](https://unidata.pro/datasets/kids-teens-aging/?utm_source=github-biometrics&utm_medium=referral&utm_campaign=kids-and-teens-selfie-dataset) to discuss purchase terms.
 
 ## Dataset structure
 - 003 —  a folder of person's videos.
 - 004 —  a folder of person's videos.
-- Kids and Teens Selfie dataset.csv — file contains metadata for all individuals in the dataset.
+- Kids and Teens dataset.csv — file contains metadata for all individuals in the dataset.
 
 ### 🧩 Like the dataset but need different data? We can collect a custom dataset just for you - learn more about our data collection services [here](https://unidata.pro/datasets/kids-teens-aging/?utm_source=github-biometrics&utm_medium=referral&utm_campaign=kids-and-teens-selfie-dataset)
 
